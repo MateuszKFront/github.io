@@ -52,7 +52,7 @@ export default {
     list-style: none;
     flex-flow: row wrap;
     & :nth-child(even) {
-            background-color:red;
+            border-color:red;
             margin-left:3em;
         };
     li > a {
