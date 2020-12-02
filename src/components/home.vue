@@ -54,7 +54,6 @@ export default {
     & :nth-child(even) {
             border-color:red;
             margin-left:3em;
-            color:#335533;
         };
     li > a {
         text-decoration: none;
